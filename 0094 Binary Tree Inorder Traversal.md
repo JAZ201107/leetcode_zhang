@@ -1,7 +1,5 @@
 [Question](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
-![image-20221012191734268](0094 Binary Tree Inorder Traversal/image-20221012191734268.png)
-
 <img src="0094 Binary Tree Inorder Traversal/image-20221012191734268.png" width="" height="" border="0" alt=""> 
 
 
