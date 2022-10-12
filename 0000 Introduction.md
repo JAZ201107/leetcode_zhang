@@ -6,10 +6,10 @@ This Gitbook is the all questions I've doen in the leetcode, include some though
 
 If you want to know more, [here](https://yu-yang.pro/) is my blog, it include contents like:
 
-* machine learning
-* deep learning
-* operating systems
-* distributed systems, 
+* Machine Learning
+* Deep Learning
+* Operating Systems
+* Distributed Systems
 * ...
 
 It also include some course and assignments:
