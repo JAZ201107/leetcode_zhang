@@ -1,6 +1,6 @@
 [Question](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
-![Screenshot 2022-10-12 at 19.15.04](0094 Binary Tree Inorder Traversal/Screenshot 2022-10-12 at 19.15.04.png)
+![image-20221012191734268](0094 Binary Tree Inorder Traversal/image-20221012191734268.png)
 
 
 
