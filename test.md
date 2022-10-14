@@ -26,6 +26,10 @@ and
 
 
 
+and <span style="color:blue">some text</span>.
+
+
+
 
 
 ### ad
