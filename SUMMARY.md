@@ -29,4 +29,6 @@
   * [2095 Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [1531 String Compression II](dynamic-programming/1531-string-compression-ii.md)
-* [Graph](graph.md)
+* [Graph](graph/README.md)
+  * [0733 Flood Fill](graph/0733-flood-fill.md)
+  * [0200 Number of Islands](graph/0200-number-of-islands.md)
