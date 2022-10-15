@@ -27,4 +27,5 @@
   * [0146 LRU Cache](0146-lru-cache.md)
   * [0237 Delete Node in a Linked List](0237-delete-node-in-a-linked-list.md)
   * [2095 Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list.md)
-* [Dynamic Programming](dynamic-programming.md)
+* [Dynamic Programming](dynamic-programming/README.md)
+  * [1531 String Compression II](dynamic-programming/1531-string-compression-ii.md)
