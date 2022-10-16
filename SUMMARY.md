@@ -31,5 +31,6 @@
   * [1335 Minimum Difficulty of a Job Schedule](dynamic-programming/1335-minimum-difficulty-of-a-job-schedule.md)
   * [1531 String Compression II](dynamic-programming/1531-string-compression-ii.md)
 * [Graph](graph/README.md)
-  * [0733 Flood Fill](graph/0733-flood-fill.md)
   * [0200 Number of Islands](graph/0200-number-of-islands.md)
+  * [0695 Max Area of Island](graph/0695-max-area-of-island.md)
+  * [0733 Flood Fill](graph/0733-flood-fill.md)
