@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (3).png>)
 
 ```java
 /**
