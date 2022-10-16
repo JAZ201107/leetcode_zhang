@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/string-compression-ii/)
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 
 

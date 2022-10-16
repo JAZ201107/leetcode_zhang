@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/flood-fill/?envType=study-plan\&id=graph-i)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ```java
 class Solution {
