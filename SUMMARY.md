@@ -24,6 +24,7 @@
   * [0572 Subtree of Another Tree](0572-subtree-of-another-tree.md)
   * [0589 N-ary Tree Preorder Traversal](0589-n-ary-tree-preorder-traversal.md)
   * [0590 N-ary Tree Postorder Traversal](0590-n-ary-tree-postorder-traversal.md)
+  * [1448 Count Good Nodes in Binary Tree](trees/1448-count-good-nodes-in-binary-tree.md)
   * [2415 Reverse Odd Levels of Binary Tree](2415-reverse-odd-levels-of-binary-tree.md)
 * [Linked List](linked-list/README.md)
   * [0146 LRU Cache](0146-lru-cache.md)
