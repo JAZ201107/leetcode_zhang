@@ -28,6 +28,7 @@
   * [0237 Delete Node in a Linked List](0237-delete-node-in-a-linked-list.md)
   * [2095 Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list.md)
 * [Dynamic Programming](dynamic-programming/README.md)
+  * [1335 Minimum Difficulty of a Job Schedule](dynamic-programming/1335-minimum-difficulty-of-a-job-schedule.md)
   * [1531 String Compression II](dynamic-programming/1531-string-compression-ii.md)
 * [Graph](graph/README.md)
   * [0733 Flood Fill](graph/0733-flood-fill.md)
