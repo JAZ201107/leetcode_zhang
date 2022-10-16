@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/max-area-of-island/)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 ```java
 class Solution {
