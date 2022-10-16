@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 ```java
 /**
