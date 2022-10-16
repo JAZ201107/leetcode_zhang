@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/number-of-islands/)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 `My Solution`
 

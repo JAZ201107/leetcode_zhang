@@ -38,3 +38,5 @@
   * [0695 Max Area of Island](graph/0695-max-area-of-island.md)
   * [0733 Flood Fill](graph/0733-flood-fill.md)
   * [1254 Number of Closed Islands](graph/1254-number-of-closed-islands.md)
+* [Two Pointers](two-pointers/README.md)
+  * [0125 Valid Palindrome](two-pointers/0125-valid-palindrome.md)
