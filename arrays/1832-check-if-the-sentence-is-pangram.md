@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)
 
 
 
