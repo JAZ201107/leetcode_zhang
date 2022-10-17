@@ -20,6 +20,7 @@
   * [0145 Binary Tree Postorder Traversal](0145-binary-tree-postorder-traversal.md)
   * [0199 Binary Tree Right Side View](trees/0199-binary-tree-right-side-view.md)
   * [0226 Invert Binary Tree](0226-invert-binary-tree.md)
+  * [0230 Kth Smallest Element in a BST](trees/0230-kth-smallest-element-in-a-bst.md)
   * [0235 Lowest Common Ancestor of a Binary Search Tree](trees/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
   * [0429 N-ary Tree Level Order Traversal](0429-n-ary-tree-level-order-traversal.md)
   * [0543 Diameter of Binary Tree](0543-diameter-of-binary-tree.md)
