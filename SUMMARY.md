@@ -8,6 +8,7 @@
   * [0128 Longest Consecutive Sequence](0128-longest-consecutive-sequence.md)
   * [0217 Contains Duplicate](0217-contains-duplicate.md)
   * [0242 Valid Anagram](0242-valid-anagram.md)
+  * [1832 Check if the Sentence Is Pangram](arrays/1832-check-if-the-sentence-is-pangram.md)
   * [0347 Top K Frequent Elements](0347-top-k-frequent-elements.md)
 * [Trees](trees/README.md)
   * [0094 Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal.md)
