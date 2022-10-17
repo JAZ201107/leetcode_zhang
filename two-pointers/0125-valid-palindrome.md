@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/valid-palindrome/)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 
 

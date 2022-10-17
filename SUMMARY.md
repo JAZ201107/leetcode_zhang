@@ -12,6 +12,7 @@
   * [1832 Check if the Sentence Is Pangram](arrays/1832-check-if-the-sentence-is-pangram.md)
 * [Trees](trees/README.md)
   * [0094 Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal.md)
+  * [0098 Validate Binary Search Tree](trees/0098-validate-binary-search-tree.md)
   * [0100 Same Tree](0100-same-tree.md)
   * [0104 Maximum Depth of Binary Tree](0104-maximum-depth-of-binary-tree.md)
   * [0110 Balanced Binary Tree](0110-balanced-binary-tree.md)
