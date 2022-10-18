@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/count-and-say/)
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 
 
