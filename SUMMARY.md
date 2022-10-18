@@ -50,3 +50,4 @@
   * [0167 Two Sum II - Input Array Is Sorted](two-pointers/0167-two-sum-ii-input-array-is-sorted.md)
 * [Heap/PriorityQueue](heap-priorityqueue/README.md)
   * [0703 Kth Largest Element in a Stream](heap-priorityqueue/0703-kth-largest-element-in-a-stream.md)
+  * [1046 Last Stone Weight](heap-priorityqueue/1046-last-stone-weight.md)

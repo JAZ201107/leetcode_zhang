@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/binary-tree-right-side-view/)
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (3).png>)
 
 ```java
 /**

@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/as-far-from-land-as-possible/)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 
 
