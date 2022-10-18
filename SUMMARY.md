@@ -46,6 +46,7 @@
   * [1254 Number of Closed Islands](graph/1254-number-of-closed-islands.md)
   * [1905 Count Sub Islands](graph/1905-count-sub-islands.md)
 * [Two Pointers](two-pointers/README.md)
+  * [0015 3Sum](two-pointers/0015-3sum.md)
   * [0125 Valid Palindrome](two-pointers/0125-valid-palindrome.md)
   * [0167 Two Sum II - Input Array Is Sorted](two-pointers/0167-two-sum-ii-input-array-is-sorted.md)
 * [Heap/PriorityQueue](heap-priorityqueue/README.md)

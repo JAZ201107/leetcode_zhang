@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/count-sub-islands/)
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (2).png>)
 
 
 
