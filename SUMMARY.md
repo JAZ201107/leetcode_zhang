@@ -4,6 +4,7 @@
 * [Arrays](arrays/README.md)
   * [0001 Two Sum](0001-two-sum.md)
   * [0036 Valid Sudoku](0036-valid-sudoku.md)
+  * [0038 Count and Say](arrays/0038-count-and-say.md)
   * [0049 Group Anagrams](0049-group-anagrams.md)
   * [0128 Longest Consecutive Sequence](0128-longest-consecutive-sequence.md)
   * [0217 Contains Duplicate](0217-contains-duplicate.md)
