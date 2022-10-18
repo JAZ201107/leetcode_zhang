@@ -42,6 +42,7 @@
   * [0695 Max Area of Island](graph/0695-max-area-of-island.md)
   * [0733 Flood Fill](graph/0733-flood-fill.md)
   * [1020 Number of Enclaves](graph/1020-number-of-enclaves.md)
+  * [1162 As Far from Land as Possible](graph/1162-as-far-from-land-as-possible.md)
   * [1254 Number of Closed Islands](graph/1254-number-of-closed-islands.md)
   * [1905 Count Sub Islands](graph/1905-count-sub-islands.md)
 * [Two Pointers](two-pointers/README.md)
