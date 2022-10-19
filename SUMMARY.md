@@ -11,6 +11,7 @@
   * [0242 Valid Anagram](0242-valid-anagram.md)
   * [0347 Top K Frequent Elements](0347-top-k-frequent-elements.md)
   * [1832 Check if the Sentence Is Pangram](arrays/1832-check-if-the-sentence-is-pangram.md)
+  * [2012 Sum of Beauty in the Array](arrays/2012-sum-of-beauty-in-the-array.md)
 * [Trees](trees/README.md)
   * [0094 Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal.md)
   * [0098 Validate Binary Search Tree](trees/0098-validate-binary-search-tree.md)
