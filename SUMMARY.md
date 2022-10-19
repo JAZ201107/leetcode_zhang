@@ -58,3 +58,5 @@
   * [0973 K Closest Points to Origin](heap-priorityqueue/0973-k-closest-points-to-origin.md)
   * [1046 Last Stone Weight](heap-priorityqueue/1046-last-stone-weight.md)
   * [2284 Sender With Largest Word Count](heap-priorityqueue/2284-sender-with-largest-word-count.md)
+* [Stack](stack/README.md)
+  * [1472 Design Browser History](stack/1472-design-browser-history.md)
