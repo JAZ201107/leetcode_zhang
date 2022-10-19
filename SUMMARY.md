@@ -54,4 +54,5 @@
   * [0692 Top K Frequent Words](heap-priorityqueue/0692-top-k-frequent-words.md)
   * [0703 Kth Largest Element in a Stream](heap-priorityqueue/0703-kth-largest-element-in-a-stream.md)
   * [0973 K Closest Points to Origin](heap-priorityqueue/0973-k-closest-points-to-origin.md)
+  * [2284 Sender With Largest Word Count](heap-priorityqueue/2284-sender-with-largest-word-count.md)
   * [1046 Last Stone Weight](heap-priorityqueue/1046-last-stone-weight.md)

@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/validate-binary-search-tree/)
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (2) (3).png>)
 
 
 
