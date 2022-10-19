@@ -33,6 +33,7 @@
 * [Linked List](linked-list/README.md)
   * [0146 LRU Cache](0146-lru-cache.md)
   * [0237 Delete Node in a Linked List](0237-delete-node-in-a-linked-list.md)
+  * [0430 Flatten a Multilevel Doubly Linked List](linked-list/0430-flatten-a-multilevel-doubly-linked-list.md)
   * [2095 Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [1335 Minimum Difficulty of a Job Schedule](dynamic-programming/1335-minimum-difficulty-of-a-job-schedule.md)

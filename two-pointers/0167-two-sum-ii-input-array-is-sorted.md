@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
-![](<../.gitbook/assets/image (2) (3).png>)
+![](<../.gitbook/assets/image (2) (3) (1).png>)
 
 
 
