@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/last-stone-weight/)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (6).png>)
 
 My Solution
 
