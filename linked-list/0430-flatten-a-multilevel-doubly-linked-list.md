@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 
 

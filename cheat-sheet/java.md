@@ -6,3 +6,29 @@
 StringBuilder s = new StringBuilder();
 String res = s.toString();
 ```
+
+## Array
+
+```java
+// Initial Array
+int[] a = new int[4];
+int[] a = {1,2,3,4};
+int[][] a = {{1,2},{3,4};
+int[] a = new int[]{hashmap.keySet()};
+```
+
+
+
+## Queue
+
+```java
+Queue<Integer> q = new ArrayList<>();
+Queue<Integer> q = new LinkedList<>();
+
+q.isEmpty(); // return true or false
+q.size();
+q.offer(); // add element
+q.offer(new int[]{1,2});
+q.poll(); // remove element
+q.peek();  // check element but not remove 
+```
