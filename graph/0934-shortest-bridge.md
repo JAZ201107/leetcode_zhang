@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/shortest-bridge/)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (10).png>)
 
 
 

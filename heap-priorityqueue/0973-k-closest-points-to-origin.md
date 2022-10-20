@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/k-closest-points-to-origin/)
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 My Solution:
 

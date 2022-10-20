@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/sender-with-largest-word-count/)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 My Solution:
 
