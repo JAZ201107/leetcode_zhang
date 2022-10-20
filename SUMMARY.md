@@ -1,8 +1,11 @@
 # Table of contents
 
 * [About this Gitbook](README.md)
+* [Cheat Sheet](cheat-sheet/README.md)
+  * [Java](cheat-sheet/java.md)
 * [Arrays](arrays/README.md)
   * [0001 Two Sum](0001-two-sum.md)
+  * [0012 Integer to Roman](arrays/0012-integer-to-roman.md)
   * [0036 Valid Sudoku](0036-valid-sudoku.md)
   * [0038 Count and Say](arrays/0038-count-and-say.md)
   * [0049 Group Anagrams](0049-group-anagrams.md)
