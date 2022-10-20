@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/integer-to-roman/)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 My Solution:
 

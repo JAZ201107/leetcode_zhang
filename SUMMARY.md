@@ -48,6 +48,7 @@
   * [0542 01 Matrix](graph/0542-01-matrix.md)
   * [0695 Max Area of Island](graph/0695-max-area-of-island.md)
   * [0733 Flood Fill](graph/0733-flood-fill.md)
+  * [0934 Shortest Bridge](graph/0934-shortest-bridge.md)
   * [1020 Number of Enclaves](graph/1020-number-of-enclaves.md)
   * [1091 Shortest Path in Binary Matrix](graph/1091-shortest-path-in-binary-matrix.md)
   * [1162 As Far from Land as Possible](graph/1162-as-far-from-land-as-possible.md)
