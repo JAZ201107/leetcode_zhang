@@ -18,7 +18,7 @@
 
 <figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>preorder traversal</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption><p>preorder traversal</p></figcaption></figure>
 
 
 
@@ -26,7 +26,7 @@
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Inorder Traversal</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Inorder Traversal</p></figcaption></figure>
 
 
 
