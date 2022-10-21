@@ -32,3 +32,11 @@ q.offer(new int[]{1,2});
 q.poll(); // remove element
 q.peek();  // check element but not remove 
 ```
+
+## LinkedList
+
+```java
+List<Integer> a = new ArrayList<>();
+List<Integer> a = new LinkedList<>();
+List<Intger> b = new ArrayList<>(a);
+```
