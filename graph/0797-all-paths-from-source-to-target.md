@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/all-paths-from-source-to-target/)
 
-![](<../.gitbook/assets/image (2).png>)
+![](../.gitbook/assets/image.png)
 
 
 

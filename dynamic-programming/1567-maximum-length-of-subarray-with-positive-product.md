@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)
 
 My Solution:
 
@@ -42,3 +42,5 @@ class Solution {
     }
 }
 ```
+
+Similar Question: [0152 Maximum Product Subarray](https://yuyang-zhang.gitbook.io/my-leetcode/dynamic-programming/0152-maximum-product-subarray)

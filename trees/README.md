@@ -34,7 +34,7 @@
 
 * for gathering file sizes
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Postorder Traversal</p></figcaption></figure>
 
