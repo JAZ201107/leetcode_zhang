@@ -39,4 +39,6 @@ q.peek();  // check element but not remove
 List<Integer> a = new ArrayList<>();
 List<Integer> a = new LinkedList<>();
 List<Intger> b = new ArrayList<>(a);
+
+int a = b.size(); // get size of list
 ```

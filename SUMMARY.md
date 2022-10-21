@@ -50,6 +50,7 @@
   * [0695 Max Area of Island](graph/0695-max-area-of-island.md)
   * [0733 Flood Fill](graph/0733-flood-fill.md)
   * [0797 All Paths From Source to Target](graph/0797-all-paths-from-source-to-target.md)
+  * [0841 Keys and Rooms](graph/0841-keys-and-rooms.md)
   * [0934 Shortest Bridge](graph/0934-shortest-bridge.md)
   * [1020 Number of Enclaves](graph/1020-number-of-enclaves.md)
   * [1091 Shortest Path in Binary Matrix](graph/1091-shortest-path-in-binary-matrix.md)
