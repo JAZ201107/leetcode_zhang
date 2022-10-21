@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)
 
-![](<../.gitbook/assets/image (9).png>)
+![](../.gitbook/assets/image.png)
 
 My Solution:
 

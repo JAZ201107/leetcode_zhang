@@ -1,8 +1,8 @@
 # 0152 Maximum Product Subarray
 
-[Question](https://leetcode.com/problems/maximum-product-subarray/)
+[Question](https://leetcode.com/problems/maximum-product-subarray/).&#x20;
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 
 
@@ -27,3 +27,10 @@ class Solution {
     }
 }
 ```
+
+
+
+Similar Question:&#x20;
+
+[1567 Maximum Length of Subarray With Positive Product](https://yuyang-zhang.gitbook.io/my-leetcode/dynamic-programming/1567-maximum-length-of-subarray-with-positive-product)
+
