@@ -49,6 +49,7 @@
   * [0200 Number of Islands](graph/0200-number-of-islands.md)
   * [0417 Pacific Atlantic Water Flow](graph/0417-pacific-atlantic-water-flow.md)
   * [0542 01 Matrix](graph/0542-01-matrix.md)
+  * [0547 Number of Provinces](graph/0547-number-of-provinces.md)
   * [0695 Max Area of Island](graph/0695-max-area-of-island.md)
   * [0733 Flood Fill](graph/0733-flood-fill.md)
   * [0797 All Paths From Source to Target](graph/0797-all-paths-from-source-to-target.md)
