@@ -60,6 +60,7 @@
   * [1162 As Far from Land as Possible](graph/1162-as-far-from-land-as-possible.md)
   * [1254 Number of Closed Islands](graph/1254-number-of-closed-islands.md)
   * [1319 Number of Operations to Make Network Connected](graph/1319-number-of-operations-to-make-network-connected.md)
+  * [1376 Time Needed to Inform All Employees](graph/1376-time-needed-to-inform-all-employees.md)
   * [1905 Count Sub Islands](graph/1905-count-sub-islands.md)
   * [1926 Nearest Exit from Entrance in Maze](graph/1926-nearest-exit-from-entrance-in-maze.md)
 * [Two Pointers](two-pointers/README.md)

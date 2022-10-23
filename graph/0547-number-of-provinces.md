@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/number-of-provinces/)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 
 
