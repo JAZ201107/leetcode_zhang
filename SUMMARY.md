@@ -58,6 +58,7 @@
   * [0934 Shortest Bridge](graph/0934-shortest-bridge.md)
   * [1020 Number of Enclaves](graph/1020-number-of-enclaves.md)
   * [1091 Shortest Path in Binary Matrix](graph/1091-shortest-path-in-binary-matrix.md)
+  * [1129 Shortest Path with Alternating Colors](graph/1129-shortest-path-with-alternating-colors.md)
   * [1162 As Far from Land as Possible](graph/1162-as-far-from-land-as-possible.md)
   * [1254 Number of Closed Islands](graph/1254-number-of-closed-islands.md)
   * [1319 Number of Operations to Make Network Connected](graph/1319-number-of-operations-to-make-network-connected.md)

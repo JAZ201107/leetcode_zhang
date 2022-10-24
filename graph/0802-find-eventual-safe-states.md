@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/find-eventual-safe-states/)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 
 
