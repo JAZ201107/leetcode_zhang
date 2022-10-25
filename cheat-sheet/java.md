@@ -4,8 +4,18 @@
 
 ```java
 StringBuilder s = new StringBuilder();
+s.append(String/int/double);
 String res = s.toString();
+
+String a, b;
+a.equals(b);
+
+// array to String
+String[] a = {"a","b","c"};
+String b = a.join("", a);
 ```
+
+
 
 ## Array
 
