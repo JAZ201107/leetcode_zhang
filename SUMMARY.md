@@ -41,6 +41,8 @@
   * [0237 Delete Node in a Linked List](0237-delete-node-in-a-linked-list.md)
   * [0430 Flatten a Multilevel Doubly Linked List](linked-list/0430-flatten-a-multilevel-doubly-linked-list.md)
   * [2095 Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list.md)
+* [HashMap](hashmap/README.md)
+  * [0013 Roman to Integer](hashmap/0013-roman-to-integer.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [0152 Maximum Product Subarray](dynamic-programming/0152-maximum-product-subarray.md)
   * [1335 Minimum Difficulty of a Job Schedule](dynamic-programming/1335-minimum-difficulty-of-a-job-schedule.md)
