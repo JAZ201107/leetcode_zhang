@@ -48,6 +48,7 @@
   * [1531 String Compression II](dynamic-programming/1531-string-compression-ii.md)
 * [Graph](graph/README.md)
   * [0200 Number of Islands](graph/0200-number-of-islands.md)
+  * [0365 Water and Jug Problem](graph/0365-water-and-jug-problem.md)
   * [0417 Pacific Atlantic Water Flow](graph/0417-pacific-atlantic-water-flow.md)
   * [0542 01 Matrix](graph/0542-01-matrix.md)
   * [0547 Number of Provinces](graph/0547-number-of-provinces.md)
