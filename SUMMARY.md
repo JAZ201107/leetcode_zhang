@@ -56,6 +56,7 @@
   * [0797 All Paths From Source to Target](graph/0797-all-paths-from-source-to-target.md)
   * [0802 Find Eventual Safe States](graph/0802-find-eventual-safe-states.md)
   * [0841 Keys and Rooms](graph/0841-keys-and-rooms.md)
+  * [0847 Shortest Path Visiting All Nodes](graph/0847-shortest-path-visiting-all-nodes.md)
   * [0934 Shortest Bridge](graph/0934-shortest-bridge.md)
   * [1020 Number of Enclaves](graph/1020-number-of-enclaves.md)
   * [1091 Shortest Path in Binary Matrix](graph/1091-shortest-path-in-binary-matrix.md)
