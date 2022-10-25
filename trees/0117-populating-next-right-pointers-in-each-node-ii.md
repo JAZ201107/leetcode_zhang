@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (2) (3).png>)
 
 
 
