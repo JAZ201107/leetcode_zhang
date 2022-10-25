@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (3).png>)
 
 
 

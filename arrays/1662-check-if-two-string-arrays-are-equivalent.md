@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

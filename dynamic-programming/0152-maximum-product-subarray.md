@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/maximum-product-subarray/).&#x20;
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (6).png>)
 
 
 
