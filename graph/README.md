@@ -10,7 +10,7 @@
   * Undirected
 * With Edge Labels
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Graph Types</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (3).png" alt=""><figcaption><p>Graph Types</p></figcaption></figure>
 
 ## Graph Problems:
 
