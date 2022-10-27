@@ -64,6 +64,7 @@
   * [0841 Keys and Rooms](graph/0841-keys-and-rooms.md)
   * [0847 Shortest Path Visiting All Nodes](graph/0847-shortest-path-visiting-all-nodes.md)
   * [0934 Shortest Bridge](graph/0934-shortest-bridge.md)
+  * [0997 Find the Town Judge](graph/0997-find-the-town-judge.md)
   * [1020 Number of Enclaves](graph/1020-number-of-enclaves.md)
   * [1091 Shortest Path in Binary Matrix](graph/1091-shortest-path-in-binary-matrix.md)
   * [1129 Shortest Path with Alternating Colors](graph/1129-shortest-path-with-alternating-colors.md)
