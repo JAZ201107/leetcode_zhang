@@ -74,6 +74,7 @@
   * [1319 Number of Operations to Make Network Connected](graph/1319-number-of-operations-to-make-network-connected.md)
   * [1376 Time Needed to Inform All Employees](graph/1376-time-needed-to-inform-all-employees.md)
   * [1466 Reorder Routes to Make All Paths Lead to the City Zero](graph/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md)
+  * [1557 Minimum Number of Vertices to Reach All Nodes](graph/1557-minimum-number-of-vertices-to-reach-all-nodes.md)
   * [1654 Minimum Jumps to Reach Home](graph/1654-minimum-jumps-to-reach-home.md)
   * [1905 Count Sub Islands](graph/1905-count-sub-islands.md)
   * [1926 Nearest Exit from Entrance in Maze](graph/1926-nearest-exit-from-entrance-in-maze.md)
