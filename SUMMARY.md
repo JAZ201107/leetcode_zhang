@@ -63,6 +63,7 @@
   * [0802 Find Eventual Safe States](graph/0802-find-eventual-safe-states.md)
   * [0841 Keys and Rooms](graph/0841-keys-and-rooms.md)
   * [0847 Shortest Path Visiting All Nodes](graph/0847-shortest-path-visiting-all-nodes.md)
+  * [0886 Possible Bipartition](graph/0886-possible-bipartition.md)
   * [0934 Shortest Bridge](graph/0934-shortest-bridge.md)
   * [0997 Find the Town Judge](graph/0997-find-the-town-judge.md)
   * [1020 Number of Enclaves](graph/1020-number-of-enclaves.md)
