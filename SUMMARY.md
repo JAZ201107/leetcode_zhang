@@ -59,6 +59,7 @@
   * [0695 Max Area of Island](graph/0695-max-area-of-island.md)
   * [0733 Flood Fill](graph/0733-flood-fill.md)
   * [0752 Open the Lock](graph/0752-open-the-lock.md)
+  * [0785 Is Graph Bipartite?](graph/0785-is-graph-bipartite.md)
   * [0797 All Paths From Source to Target](graph/0797-all-paths-from-source-to-target.md)
   * [0802 Find Eventual Safe States](graph/0802-find-eventual-safe-states.md)
   * [0841 Keys and Rooms](graph/0841-keys-and-rooms.md)
