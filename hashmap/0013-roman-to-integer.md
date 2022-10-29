@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/roman-to-integer/)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
