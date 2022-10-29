@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/is-graph-bipartite/)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (8).png" alt=""><figcaption></figcaption></figure>
 
 
 

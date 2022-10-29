@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

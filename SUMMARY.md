@@ -6,6 +6,7 @@
 * [Arrays](arrays/README.md)
   * [0001 Two Sum](0001-two-sum.md)
   * [0012 Integer to Roman](arrays/0012-integer-to-roman.md)
+  * [0033 Search in Rotated Sorted Array](arrays/0033-search-in-rotated-sorted-array.md)
   * [0034 Find First and Last Position of Element in Sorted Array](arrays/0034-find-first-and-last-position-of-element-in-sorted-array.md)
   * [0036 Valid Sudoku](0036-valid-sudoku.md)
   * [0038 Count and Say](arrays/0038-count-and-say.md)
