@@ -14,6 +14,7 @@
   * [0074 Search a 2D Matrix](arrays/0074-search-a-2d-matrix.md)
   * [0128 Longest Consecutive Sequence](0128-longest-consecutive-sequence.md)
   * [0153 Find Minimum in Rotated Sorted Array](arrays/0153-find-minimum-in-rotated-sorted-array.md)
+  * [0162 Find Peak Element](arrays/0162-find-peak-element.md)
   * [0217 Contains Duplicate](0217-contains-duplicate.md)
   * [0242 Valid Anagram](0242-valid-anagram.md)
   * [0347 Top K Frequent Elements](0347-top-k-frequent-elements.md)
