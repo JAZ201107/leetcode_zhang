@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/jump-game-iii/)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 My Solution: BFS
 
