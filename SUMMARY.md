@@ -90,6 +90,7 @@
 * [Two Pointers](two-pointers/README.md)
   * [0015 3Sum](two-pointers/0015-3sum.md)
   * [0125 Valid Palindrome](two-pointers/0125-valid-palindrome.md)
+  * [0844 Backspace String Compare](two-pointers/0844-backspace-string-compare.md)
   * [0167 Two Sum II - Input Array Is Sorted](two-pointers/0167-two-sum-ii-input-array-is-sorted.md)
 * [Heap/PriorityQueue](heap-priorityqueue/README.md)
   * [0692 Top K Frequent Words](heap-priorityqueue/0692-top-k-frequent-words.md)
