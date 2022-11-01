@@ -32,3 +32,58 @@ class Solution {
 }
 ```
 
+
+
+My Solution 2: Two Pointer
+
+```java
+class Solution {
+    public boolean backspaceCompare(String s, String t) {
+        int i = s.length() - 1;
+        int j = t.length() - 1;
+        int countIns = 0;
+        int countInt = 0;
+        
+        while(true){
+            while(i >= 0){
+                if(s.charAt(i) == '#'){
+                    countIns++;
+                    i--;
+                }else if(countIns > 0){
+                    countIns--;
+                    i--;
+                }else{
+                    break;
+                }
+            }// end while()
+            
+            while(j >= 0){
+                if(t.charAt(j) == '#'){
+                    countInt++;
+                    j--;
+                }else if(countInt > 0){
+                    countInt--;
+                    j--;
+                }else{
+                    break;
+                }
+            }
+            
+            if(i >= 0
+              && j >= 0){
+                if(s.charAt(i) == t.charAt(j)){
+                    i--;
+                    j--;
+                }else{
+                    return false;
+                }
+            }else{
+                break;
+            }
+        }// end while()
+        
+        
+        return i == j;
+    }
+}
+```
