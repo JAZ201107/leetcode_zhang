@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/maximal-network-rank/)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 My Solution:
 
