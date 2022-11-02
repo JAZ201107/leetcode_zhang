@@ -103,5 +103,6 @@
 * [Stack](stack/README.md)
   * [1472 Design Browser History](stack/1472-design-browser-history.md)
 * [Sliding Window](sliding-window/README.md)
+  * [0209 Minimum Size Subarray Sum](sliding-window/0209-minimum-size-subarray-sum.md)
   * [0438 Find All Anagrams in a String](sliding-window/0438-find-all-anagrams-in-a-string.md)
   * [0713 Subarray Product Less Than K](sliding-window/0713-subarray-product-less-than-k.md)
