@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/design-browser-history/)
 
-![](<../.gitbook/assets/image (1) (5).png>)
+![](<../.gitbook/assets/image (1) (5) (1).png>)
 
 
 
