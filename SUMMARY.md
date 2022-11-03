@@ -20,6 +20,7 @@
   * [0347 Top K Frequent Elements](0347-top-k-frequent-elements.md)
   * [1662 Check If Two String Arrays are Equivalent](arrays/1662-check-if-two-string-arrays-are-equivalent.md)
   * [1832 Check if the Sentence Is Pangram](arrays/1832-check-if-the-sentence-is-pangram.md)
+  * [2131 Longest Palindrome by Concatenating Two Letter Words](arrays/2131-longest-palindrome-by-concatenating-two-letter-words.md)
   * [2012 Sum of Beauty in the Array](arrays/2012-sum-of-beauty-in-the-array.md)
 * [Trees](trees/README.md)
   * [0094 Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal.md)
