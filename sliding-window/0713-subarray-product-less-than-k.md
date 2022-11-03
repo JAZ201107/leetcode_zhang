@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/subarray-product-less-than-k/)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 
 
