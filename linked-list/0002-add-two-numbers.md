@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/add-two-numbers/)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 
 
