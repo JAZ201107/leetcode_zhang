@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/top-k-frequent-words/)
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 
 
