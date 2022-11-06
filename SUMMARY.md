@@ -45,6 +45,7 @@
   * [2415 Reverse Odd Levels of Binary Tree](2415-reverse-odd-levels-of-binary-tree.md)
 * [Linked List](linked-list/README.md)
   * [0002 Add Two Numbers](linked-list/0002-add-two-numbers.md)
+  * [0078 Subsets](linked-list/0078-subsets.md)
   * [0082 Remove Duplicates from Sorted List II](linked-list/0082-remove-duplicates-from-sorted-list-ii.md)
   * [0146 LRU Cache](0146-lru-cache.md)
   * [0237 Delete Node in a Linked List](0237-delete-node-in-a-linked-list.md)
