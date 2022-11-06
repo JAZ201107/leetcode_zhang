@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 
 
