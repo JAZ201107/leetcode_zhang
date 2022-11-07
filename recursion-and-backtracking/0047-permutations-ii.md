@@ -45,3 +45,46 @@ class Solution {
     }
 }
 ```
+
+
+
+My Solution 2:
+
+```java
+class Solution {
+    public List<List<Integer>> permuteUnique(int[] nums) {
+        List<List<Integer>> res = new ArrayList<>();
+        Arrays.sort(nums); 
+        List<Integer> temp  = new ArrayList<>();
+        boolean[] vis = new boolean[nums.length];
+        helper(res, temp, nums, vis );
+        
+        return res;
+    }
+
+    private void helper(List<List<Integer>> res, List<Integer> temp, int[] nums, boolean[] vis){
+        if(nums.length == temp.size()){
+            res.add(new ArrayList<>(temp));
+            return;
+        }
+
+        for(int i = 0; i < nums.length; i++){
+            if(vis[i]){
+                continue;
+            }
+            if(i > 0
+            && !vis[i-1]
+            && nums[i] == nums[i-1] ){
+                continue; // duplicate
+            }
+
+            vis[i] = true;
+            temp.add(nums[i]);
+
+            helper(res, temp, nums, vis);
+            temp.remove(temp.size() - 1);
+            vis[i] = false;
+        }
+    }
+}
+```
