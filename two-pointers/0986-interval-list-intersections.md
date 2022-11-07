@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/interval-list-intersections/)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 
 
