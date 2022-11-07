@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/surrounded-regions/description/?envType=study-plan\&id=algorithm-ii)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (10).png" alt=""><figcaption></figcaption></figure>
 
 
 
