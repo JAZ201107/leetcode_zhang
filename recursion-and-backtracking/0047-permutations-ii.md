@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/permutations-ii/description/?envType=study-plan\&id=algorithm-ii)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
