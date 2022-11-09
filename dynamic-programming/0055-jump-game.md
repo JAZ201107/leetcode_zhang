@@ -6,7 +6,7 @@
 
 
 
-My Solution:
+My Solution 1:
 
 ```java
 class Solution {
@@ -22,3 +22,35 @@ class Solution {
     }
 }
 ```
+
+
+
+My Solution 2:
+
+```java
+class Solution {
+    public boolean canJump(int[] nums) {
+        int n = nums.length;
+
+        if(n == 1){
+            return true;
+        }
+
+        int[] dp = new int[n];
+        dp[0] = nums[0];
+        for(int i=1; i<n; i++){
+            if(dp[i-1]<i){
+                return false;
+            }
+            dp[i] = Math.max(dp[i-1], nums[i]+i); // can jump to this index.
+
+            if(dp[i] >= n-1){
+                return true; // already jump to end
+            }
+        }
+
+        return dp[n-2] >= n-1;
+    }
+}
+```
+
