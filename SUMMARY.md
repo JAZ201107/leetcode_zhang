@@ -58,6 +58,7 @@
   * [0005 Longest Palindromic Substring](dynamic-programming/0005-longest-palindromic-substring.md)
   * [0045 Jump Game II](dynamic-programming/0045-jump-game-ii.md)
   * [0055 Jump Game](dynamic-programming/0055-jump-game.md)
+  * [0062 Unique Paths](dynamic-programming/0062-unique-paths.md)
   * [0152 Maximum Product Subarray](dynamic-programming/0152-maximum-product-subarray.md)
   * [0213 House Robber II](dynamic-programming/0213-house-robber-ii.md)
   * [1335 Minimum Difficulty of a Job Schedule](dynamic-programming/1335-minimum-difficulty-of-a-job-schedule.md)
