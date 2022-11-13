@@ -60,6 +60,7 @@
   * [0055 Jump Game](dynamic-programming/0055-jump-game.md)
   * [0062 Unique Paths](dynamic-programming/0062-unique-paths.md)
   * [0091 Decode Ways](dynamic-programming/0091-decode-ways.md)
+  * [0139 Word Break](dynamic-programming/0139-word-break.md)
   * [0152 Maximum Product Subarray](dynamic-programming/0152-maximum-product-subarray.md)
   * [0213 House Robber II](dynamic-programming/0213-house-robber-ii.md)
   * [0413 Arithmetic Slices](dynamic-programming/0413-arithmetic-slices.md)
