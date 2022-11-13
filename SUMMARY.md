@@ -65,6 +65,7 @@
   * [0213 House Robber II](dynamic-programming/0213-house-robber-ii.md)
   * [0300 Longest Increasing Subsequence](dynamic-programming/0300-longest-increasing-subsequence.md)
   * [0413 Arithmetic Slices](dynamic-programming/0413-arithmetic-slices.md)
+  * [0673 Number of Longest Increasing Subsequence](dynamic-programming/0673-number-of-longest-increasing-subsequence.md)
   * [1335 Minimum Difficulty of a Job Schedule](dynamic-programming/1335-minimum-difficulty-of-a-job-schedule.md)
   * [1567 Maximum Length of Subarray With Positive Product](dynamic-programming/1567-maximum-length-of-subarray-with-positive-product.md)
   * [1531 String Compression II](dynamic-programming/1531-string-compression-ii.md)
