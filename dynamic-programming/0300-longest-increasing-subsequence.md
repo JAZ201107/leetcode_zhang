@@ -28,3 +28,31 @@ class Solution {
     }
 }
 ```
+
+
+
+My Solution 2:
+
+```java
+class Solution {
+    public int lengthOfLIS(int[] nums) {
+        int len = nums.length;
+        int max = 1;
+
+        for(int i = 1; i < len; i++){
+            if(nums[i] > nums[max-1]){
+                nums[max++] = nums[i];
+            }else {
+                for(int j = max - 2; ;j--){
+                    if(j<0 || nums[i] > nums[j]){
+                        nums[j+1] = nums[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+        return max;
+    }
+}
+```
