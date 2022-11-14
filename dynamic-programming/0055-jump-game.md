@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/jump-game/description/)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (6).png" alt=""><figcaption></figcaption></figure>
 
 
 

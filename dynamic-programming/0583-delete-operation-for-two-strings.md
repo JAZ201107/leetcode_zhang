@@ -1,18 +1,16 @@
-# 1143 Longest Common Subsequence
+# 0583 Delete Operation for Two Strings
 
-[Question](https://leetcode.com/problems/longest-common-subsequence/description/?envType=study-plan\&id=algorithm-ii)
+[Question ](https://leetcode.com/problems/delete-operation-for-two-strings/description/?envType=study-plan\&id=algorithm-ii)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
 My Solution:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
 ```java
 class Solution {
-    public int longestCommonSubsequence(String text1, String text2) {
+    public int minDistance(String text1, String text2) {
         char[] text1_arr = text1.toCharArray();
         char[] text2_arr = text2.toCharArray();
 
@@ -40,7 +38,11 @@ class Solution {
             }
         }
 
-        return arr[text1_len][text2_len];
+
+        int same_len = arr[text1_len][text2_len];
+
+
+        return text1_len + text2_len - 2 * same_len;
     }
 }
 ```
@@ -49,4 +51,5 @@ class Solution {
 
 Relative Question:
 
-* 0583 Delete Operation for Two Strings
+* 1143 Longest Common Subsequence
+
