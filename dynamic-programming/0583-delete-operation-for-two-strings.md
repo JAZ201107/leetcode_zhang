@@ -2,7 +2,7 @@
 
 [Question ](https://leetcode.com/problems/delete-operation-for-two-strings/description/?envType=study-plan\&id=algorithm-ii)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
