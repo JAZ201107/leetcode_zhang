@@ -19,6 +19,7 @@
   * [0217 Contains Duplicate](0217-contains-duplicate.md)
   * [0242 Valid Anagram](0242-valid-anagram.md)
   * [0347 Top K Frequent Elements](0347-top-k-frequent-elements.md)
+  * [0384 Shuffle an Array](arrays/0384-shuffle-an-array.md)
   * [1662 Check If Two String Arrays are Equivalent](arrays/1662-check-if-two-string-arrays-are-equivalent.md)
   * [1832 Check if the Sentence Is Pangram](arrays/1832-check-if-the-sentence-is-pangram.md)
   * [2012 Sum of Beauty in the Array](arrays/2012-sum-of-beauty-in-the-array.md)
