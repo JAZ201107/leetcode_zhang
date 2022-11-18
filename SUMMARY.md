@@ -139,3 +139,5 @@
   * [0079 Word Search](recursion-and-backtracking/0079-word-search.md)
 * [Bit Manipulation](bit-manipulation/README.md)
   * [0201 Bitwise AND of Numbers Range](bit-manipulation/0201-bitwise-and-of-numbers-range.md)
+* [Others](others/README.md)
+  * [0202 Happy Number](others/0202-happy-number.md)
