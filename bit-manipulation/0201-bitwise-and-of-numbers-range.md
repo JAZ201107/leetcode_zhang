@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/?envType=study-plan\&id=algorithm-ii)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 
 

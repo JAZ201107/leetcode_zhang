@@ -1,0 +1,41 @@
+# 0149 Max Points on a Line
+
+[Question](https://leetcode.com/problems/max-points-on-a-line/description/?envType=study-plan\&id=algorithm-ii)
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+My Solution:
+
+```java
+class Solution {
+    public int maxPoints(int[][] points) {
+        int maxPoints = 0;
+        if(points.length <= 2){
+            return points.length;
+        }
+
+        for(int i = 0; i < points.length; i++){
+            Map<Double, Integer> map = new HashMap<>();
+            for(int j = 0; j < points.length; j++){
+                if(i==j){
+                    continue;
+                }
+
+                int x1 = points[i][0];
+                int y1 = points[i][1];
+
+                int x2 = points[j][0];
+                int y2 = points[j][1];
+
+                double k = (double)(y2 - y1) / (double)(x2 - x1);
+                map.put(k, map.getOrDefault(k,1) + 1);
+                maxPoints = Math.max(maxPoints, map.get(k));
+            }
+        }
+
+        return maxPoints;
+    }
+}
+```
