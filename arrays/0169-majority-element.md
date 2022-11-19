@@ -38,3 +38,53 @@ class Solution {
     }
 }
 ```
+
+
+
+My Solution 3: [**Boyer-Moore voting**](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)****
+
+```java
+class Solution {
+    public int majorityElement(int[] nums) {
+        int count = 0;
+        int candidate = 0;
+        for(int i: nums){
+            if(count == 0){
+                candidate = i;
+            }
+            if(i != candidate){
+                count--;
+            }else{
+                count++;
+            }
+        }
+
+        return candidate;
+    }
+}
+```
+
+
+
+My Solution 4:
+
+```java
+class Solution {
+    public int majorityElement(int[] nums) {
+        int[] bit = new int[32];
+        for(int num: nums){
+            for(int i = 0; i < 32; i++){
+                if((num >> (31 - i) & 1) == 1){
+                    bit[i]++;
+                }
+            }
+        }
+        int res = 0;
+        for(int i = 0; i < 32; i++){
+            bit[i] = bit[i] > nums.length/2 ? 1:0;
+            res += bit[i] * (1<<(31-i));
+        }
+        return res;
+    }
+}
+```
