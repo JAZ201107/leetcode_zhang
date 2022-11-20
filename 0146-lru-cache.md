@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/lru-cache/)
 
-![](../.gitbook/assets/image-20221012194331449.png)
+![](.gitbook/assets/image-20221012194331449.png)
 
 My Soltuion:
 
