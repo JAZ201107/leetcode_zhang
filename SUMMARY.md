@@ -12,6 +12,7 @@
   * [0036 Valid Sudoku](0036-valid-sudoku.md)
   * [0038 Count and Say](arrays/0038-count-and-say.md)
   * [0049 Group Anagrams](0049-group-anagrams.md)
+  * [0056 Merge Intervals](arrays/0056-merge-intervals.md)
   * [0074 Search a 2D Matrix](arrays/0074-search-a-2d-matrix.md)
   * [0075 Sort Colors](arrays/0075-sort-colors.md)
   * [0128 Longest Consecutive Sequence](0128-longest-consecutive-sequence.md)
