@@ -40,3 +40,53 @@ class Solution {
     }
 }
 ```
+
+
+
+
+
+My Solution 2: TreeMap
+
+```java
+class Solution {
+    public int[][] merge(int[][] intervals) {
+        for(int[] i: intervals){
+            add(i[0], i[1]);
+        }
+
+        int i = 0;
+        int res[][] = new int[map.size()][2];
+        for(Map.Entry<Integer, Integer> m: map.entrySet()){
+            res[i++] = new int[]{m.getKey(), m.getValue()};
+        }
+
+        return res;
+    }
+
+    // use Map to store 
+    TreeMap<Integer, Integer> map = new TreeMap<>();
+
+    private void add(int left, int right){
+        if(map.floorKey(right) == null
+        || map.get(map.floorKey(right)) < left){
+            map.put(left, right);
+        }else {
+            int start = left, end = right;
+            while(true){
+                int l = map.floorKey(end);
+                int r = map.get(l);
+                start = Math.min(l, start);
+                end = Math.max(r, end);
+
+                map.remove(l);
+                if(map.floorKey(end) == null
+                || map.get(map.floorKey(end)) < start){
+                    break;
+                }
+            }
+
+            map.put(start, end);
+        }
+    }
+}
+```

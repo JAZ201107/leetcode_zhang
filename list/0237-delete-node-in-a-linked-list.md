@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
-![](.gitbook/assets/image-20221013115853045.png)
+![](../.gitbook/assets/image-20221013115853045.png)
 
 My Solution:
 

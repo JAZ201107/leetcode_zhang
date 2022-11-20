@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
-![](.gitbook/assets/image-20221014120036578.png)
+![](../.gitbook/assets/image-20221014120036578.png)
 
 My Solution:
 
