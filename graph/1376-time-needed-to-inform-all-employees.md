@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (2).png>)
 
 
 

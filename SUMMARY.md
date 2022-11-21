@@ -11,6 +11,7 @@
   * [0034 Find First and Last Position of Element in Sorted Array](arrays/0034-find-first-and-last-position-of-element-in-sorted-array.md)
   * [0036 Valid Sudoku](0036-valid-sudoku.md)
   * [0038 Count and Say](arrays/0038-count-and-say.md)
+  * [0048 Rotate Image](arrays/0048-rotate-image.md)
   * [0049 Group Anagrams](0049-group-anagrams.md)
   * [0056 Merge Intervals](arrays/0056-merge-intervals.md)
   * [0074 Search a 2D Matrix](arrays/0074-search-a-2d-matrix.md)
