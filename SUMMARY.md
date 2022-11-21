@@ -55,6 +55,7 @@
   * [0078 Subsets](linked-list/0078-subsets.md)
   * [0082 Remove Duplicates from Sorted List II](linked-list/0082-remove-duplicates-from-sorted-list-ii.md)
   * [0090 Subsets II](linked-list/0090-subsets-ii.md)
+  * [0119 Pascal's Triangle II](list/0119-pascals-triangle-ii.md)
   * [0146 LRU Cache](0146-lru-cache.md)
   * [0237 Delete Node in a Linked List](0237-delete-node-in-a-linked-list.md)
   * [0430 Flatten a Multilevel Doubly Linked List](linked-list/0430-flatten-a-multilevel-doubly-linked-list.md)
