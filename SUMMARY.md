@@ -23,6 +23,7 @@
   * [0162 Find Peak Element](arrays/0162-find-peak-element.md)
   * [0169 Majority Element](arrays/0169-majority-element.md)
   * [0217 Contains Duplicate](0217-contains-duplicate.md)
+  * [0240 Search a 2D Matrix II](arrays/0240-search-a-2d-matrix-ii.md)
   * [0242 Valid Anagram](0242-valid-anagram.md)
   * [0347 Top K Frequent Elements](0347-top-k-frequent-elements.md)
   * [0384 Shuffle an Array](arrays/0384-shuffle-an-array.md)
