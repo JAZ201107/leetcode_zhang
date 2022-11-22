@@ -27,6 +27,7 @@
   * [0242 Valid Anagram](0242-valid-anagram.md)
   * [0347 Top K Frequent Elements](0347-top-k-frequent-elements.md)
   * [0384 Shuffle an Array](arrays/0384-shuffle-an-array.md)
+  * [0435 Non-overlapping Intervals](arrays/0435-non-overlapping-intervals.md)
   * [0560 Subarray Sum Equals K](arrays/0560-subarray-sum-equals-k.md)
   * [0706 Design HashMap](arrays/0706-design-hashmap.md)
   * [1662 Check If Two String Arrays are Equivalent](arrays/1662-check-if-two-string-arrays-are-equivalent.md)
