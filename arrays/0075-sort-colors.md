@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/sort-colors/description/)
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 
 

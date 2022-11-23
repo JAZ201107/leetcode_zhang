@@ -25,6 +25,7 @@
   * [0217 Contains Duplicate](0217-contains-duplicate.md)
   * [0240 Search a 2D Matrix II](arrays/0240-search-a-2d-matrix-ii.md)
   * [0242 Valid Anagram](0242-valid-anagram.md)
+  * [0334 Increasing Triplet Subsequence](arrays/0334-increasing-triplet-subsequence.md)
   * [0347 Top K Frequent Elements](0347-top-k-frequent-elements.md)
   * [0384 Shuffle an Array](arrays/0384-shuffle-an-array.md)
   * [0435 Non-overlapping Intervals](arrays/0435-non-overlapping-intervals.md)
