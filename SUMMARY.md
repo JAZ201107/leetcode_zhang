@@ -35,6 +35,8 @@
   * [1832 Check if the Sentence Is Pangram](arrays/1832-check-if-the-sentence-is-pangram.md)
   * [2012 Sum of Beauty in the Array](arrays/2012-sum-of-beauty-in-the-array.md)
   * [2131 Longest Palindrome by Concatenating Two Letter Words](arrays/2131-longest-palindrome-by-concatenating-two-letter-words.md)
+* [String](string/README.md)
+  * [0415 Add Strings](string/0415-add-strings.md)
 * [Trees](trees/README.md)
   * [0094 Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal.md)
   * [0098 Validate Binary Search Tree](trees/0098-validate-binary-search-tree.md)
