@@ -36,6 +36,7 @@
   * [2012 Sum of Beauty in the Array](arrays/2012-sum-of-beauty-in-the-array.md)
   * [2131 Longest Palindrome by Concatenating Two Letter Words](arrays/2131-longest-palindrome-by-concatenating-two-letter-words.md)
 * [String](string/README.md)
+  * [0409 Longest Palindrome](string/0409-longest-palindrome.md)
   * [0415 Add Strings](string/0415-add-strings.md)
 * [Trees](trees/README.md)
   * [0094 Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal.md)
