@@ -6,7 +6,7 @@
 
 
 
-My Solution:
+My Solution 1: HashSet
 
 ```java
 class Solution {
@@ -30,6 +30,30 @@ class Solution {
         }
 
         return length;
+    }
+}
+```
+
+
+
+
+
+My Solution 2: Array
+
+```java
+class Solution {
+    public int longestPalindrome(String s) {
+        int[] count = new int[128];
+        for(char c: s.toCharArray()){
+            count[c]++;
+        }
+
+        int len = 0;
+        for(int i: count){
+            len += 2*(i/2);
+        }
+
+        return len < s.length() ? len + 1:len;
     }
 }
 ```
