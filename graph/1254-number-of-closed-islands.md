@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/number-of-closed-islands/)
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 ```java
 class Solution {

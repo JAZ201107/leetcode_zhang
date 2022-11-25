@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 My Solution:
 
