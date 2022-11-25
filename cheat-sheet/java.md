@@ -13,6 +13,11 @@ a.equals(b);
 // array to String
 String[] a = {"a","b","c"};
 String b = a.join("", a);
+
+// 
+String a = "abdcde";
+char b = a.charAt(1);
+int c = a.lastIndexOf('d');
 ```
 
 

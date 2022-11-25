@@ -38,6 +38,7 @@
 * [String](string/README.md)
   * [0290 Word Pattern](string/0290-word-pattern.md)
   * [0409 Longest Palindrome](string/0409-longest-palindrome.md)
+  * [0763 Partition Labels](string/0763-partition-labels.md)
   * [0415 Add Strings](string/0415-add-strings.md)
 * [Trees](trees/README.md)
   * [0094 Binary Tree Inorder Traversal](0094-binary-tree-inorder-traversal.md)
