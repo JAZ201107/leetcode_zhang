@@ -35,6 +35,7 @@
   * [2012 Sum of Beauty in the Array](arrays/2012-sum-of-beauty-in-the-array.md)
   * [2131 Longest Palindrome by Concatenating Two Letter Words](arrays/2131-longest-palindrome-by-concatenating-two-letter-words.md)
 * [String](string/README.md)
+  * [0043 Multiply Strings](string/0043-multiply-strings.md)
   * [0049 Group Anagrams](string/0049-group-anagrams.md)
   * [0290 Word Pattern](string/0290-word-pattern.md)
   * [0409 Longest Palindrome](string/0409-longest-palindrome.md)
