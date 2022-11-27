@@ -14,17 +14,20 @@ class Solution {
         int len = s.length();
         int start = 0;
         int end = 0;
+        int max = 0;
 
         boolean[][] dp = new boolean[len][len];
-        for(int i = 0; i < len; i++){
-            for(int j = 0; i+j < len; j++){
-                dp[j][i+j] = s.charAt(j) == s.charAt(j+i)
-                            && (i < 2 || dp[j+1][i+j - 1]);
-                            
-                if(dp[j][j+i]
-                    && i > end - start){
+        for(int i = 0; i < s.length(); i++){
+            for(int j = 0; j <= i; j++){
+                if(s.charAt(i) == s.charAt(j)
+                && (i-j <= 2 || dp[j+1][i-1])){
+                    dp[j][i] = true;
+                }
+
+                if(dp[j][i] && max < i-j+1){
+                    max = i - j + 1;
                     start = j;
-                    end = j + i;
+                    end = i;
                 }
             }
         }
