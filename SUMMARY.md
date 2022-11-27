@@ -37,6 +37,7 @@
 * [String](string/README.md)
   * [0043 Multiply Strings](string/0043-multiply-strings.md)
   * [0049 Group Anagrams](string/0049-group-anagrams.md)
+  * [0187 Repeated DNA Sequences](string/0187-repeated-dna-sequences.md)
   * [0290 Word Pattern](string/0290-word-pattern.md)
   * [0409 Longest Palindrome](string/0409-longest-palindrome.md)
   * [0763 Partition Labels](string/0763-partition-labels.md)

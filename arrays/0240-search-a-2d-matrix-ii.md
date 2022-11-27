@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/search-a-2d-matrix-ii/description/?envType=study-plan\&id=data-structure-ii)
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

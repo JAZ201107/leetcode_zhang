@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
-![](<../.gitbook/assets/image (1) (2) (2).png>)
+![](<../.gitbook/assets/image (1) (2) (2) (1).png>)
 
 
 
