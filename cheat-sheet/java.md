@@ -56,4 +56,8 @@ List<Integer> a = new LinkedList<>();
 List<Intger> b = new ArrayList<>(a);
 
 int a = b.size(); // get size of list
+
+
+Set<String> set = new HashSet<>();
+List<String> list = new ArrayList(set);
 ```
