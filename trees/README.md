@@ -26,7 +26,7 @@
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Inorder Traversal</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Inorder Traversal</p></figcaption></figure>
 
 
 
