@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/?envType=study-plan\&id=graph-i)
 
-<figure><img src="../.gitbook/assets/image (1) (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 My Solution
 

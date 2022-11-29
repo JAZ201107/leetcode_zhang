@@ -70,6 +70,7 @@
   * [0119 Pascal's Triangle II](list/0119-pascals-triangle-ii.md)
   * [0142 Linked List Cycle II](list/0142-linked-list-cycle-ii.md)
   * [0146 LRU Cache](0146-lru-cache.md)
+  * [0160 Intersection of Two Linked Lists](list/0160-intersection-of-two-linked-lists.md)
   * [0237 Delete Node in a Linked List](0237-delete-node-in-a-linked-list.md)
   * [0430 Flatten a Multilevel Doubly Linked List](linked-list/0430-flatten-a-multilevel-doubly-linked-list.md)
   * [2095 Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list.md)
