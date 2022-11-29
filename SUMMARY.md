@@ -66,6 +66,7 @@
   * [0002 Add Two Numbers](linked-list/0002-add-two-numbers.md)
   * [0078 Subsets](linked-list/0078-subsets.md)
   * [0082 Remove Duplicates from Sorted List II](linked-list/0082-remove-duplicates-from-sorted-list-ii.md)
+  * [0083 Remove Duplicates from Sorted List](list/0083-remove-duplicates-from-sorted-list.md)
   * [0090 Subsets II](linked-list/0090-subsets-ii.md)
   * [0119 Pascal's Triangle II](list/0119-pascals-triangle-ii.md)
   * [0142 Linked List Cycle II](list/0142-linked-list-cycle-ii.md)
