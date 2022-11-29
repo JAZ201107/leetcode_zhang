@@ -42,3 +42,61 @@ public class Solution {
 }
 ```
 
+
+
+My Solution 2: Compare Nodes
+
+```java
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+public class Solution {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        ListNode pointerA = headA;
+        ListNode pointerB = headB;
+
+        int lenA = getLen(headA);
+        int lenB = getLen(headB);
+
+        if(lenA > lenB){
+            for(int i = 0; i < lenA - lenB; i++){
+                pointerA = pointerA.next;
+            }
+        }else if(lenA < lenB){
+            for(int i = 0; i < lenB - lenA; i++){
+                pointerB = pointerB.next;
+            }
+        }
+
+
+        while(pointerA != null){
+            if(pointerA == pointerB){
+                return pointerA;
+            }
+            pointerA = pointerA.next;
+            pointerB = pointerB.next;
+        }
+
+        return null;
+    }
+
+    private int getLen(ListNode list){
+        int res = 0;
+        ListNode pointer = list;
+        while(pointer != null){
+            res++;
+            pointer = pointer.next;
+        }
+
+        return res;
+    }
+}
+```
