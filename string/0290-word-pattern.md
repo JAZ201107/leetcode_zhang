@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/word-pattern/description/?envType=study-plan\&id=data-structure-ii)
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
