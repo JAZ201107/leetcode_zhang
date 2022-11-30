@@ -10,7 +10,7 @@
 
 ### Level Order
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Level Order</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Level Order</p></figcaption></figure>
 
 ### Preorder:&#x20;
 
