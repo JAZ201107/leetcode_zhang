@@ -64,6 +64,7 @@
   * [2415 Reverse Odd Levels of Binary Tree](2415-reverse-odd-levels-of-binary-tree.md)
 * [List](linked-list/README.md)
   * [0002 Add Two Numbers](linked-list/0002-add-two-numbers.md)
+  * [0024 Swap Nodes in Pairs](list/0024-swap-nodes-in-pairs.md)
   * [0078 Subsets](linked-list/0078-subsets.md)
   * [0082 Remove Duplicates from Sorted List II](linked-list/0082-remove-duplicates-from-sorted-list-ii.md)
   * [0083 Remove Duplicates from Sorted List](list/0083-remove-duplicates-from-sorted-list.md)
