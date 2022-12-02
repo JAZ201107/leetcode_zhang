@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/intersection-of-two-linked-lists/description/?envType=study-plan\&id=data-structure-ii)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
