@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/coin-change/description/?envType=study-plan\&id=algorithm-ii)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (8).png" alt=""><figcaption></figcaption></figure>
 
 My Solution:
 

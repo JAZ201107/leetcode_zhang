@@ -170,3 +170,4 @@
 * [Others](others/README.md)
   * [0149 Max Points on a Line](others/0149-max-points-on-a-line.md)
   * [0202 Happy Number](others/0202-happy-number.md)
+  * [1823 Find the Winner of the Circular Game](others/1823-find-the-winner-of-the-circular-game.md)
