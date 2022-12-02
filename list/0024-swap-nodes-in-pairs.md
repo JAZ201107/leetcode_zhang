@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (10).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 

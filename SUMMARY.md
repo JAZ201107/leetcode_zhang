@@ -152,6 +152,7 @@
   * [2284 Sender With Largest Word Count](heap-priorityqueue/2284-sender-with-largest-word-count.md)
 * [Stack](stack/README.md)
   * [0155 Min Stack](stack/0155-min-stack.md)
+  * [1249 Minimum Remove to Make Valid Parentheses](stack/1249-minimum-remove-to-make-valid-parentheses.md)
   * [1472 Design Browser History](stack/1472-design-browser-history.md)
 * [Sliding Window](sliding-window/README.md)
   * [0209 Minimum Size Subarray Sum](sliding-window/0209-minimum-size-subarray-sum.md)
