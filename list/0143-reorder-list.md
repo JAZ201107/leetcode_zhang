@@ -2,6 +2,8 @@
 
 [Question](https://leetcode.com/problems/reorder-list/description/?envType=study-plan\&id=data-structure-ii)
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
