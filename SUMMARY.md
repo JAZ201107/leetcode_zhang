@@ -72,6 +72,7 @@
   * [0090 Subsets II](linked-list/0090-subsets-ii.md)
   * [0119 Pascal's Triangle II](list/0119-pascals-triangle-ii.md)
   * [0142 Linked List Cycle II](list/0142-linked-list-cycle-ii.md)
+  * [0143 Reorder List](list/0143-reorder-list.md)
   * [0146 LRU Cache](0146-lru-cache.md)
   * [0160 Intersection of Two Linked Lists](list/0160-intersection-of-two-linked-lists.md)
   * [0206 Reverse Linked List](list/0206-reverse-linked-list.md)
