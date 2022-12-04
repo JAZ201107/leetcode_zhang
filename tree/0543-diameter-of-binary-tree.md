@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/diameter-of-binary-tree/)
 
-![](.gitbook/assets/image-20221014140708224.png)
+![](../.gitbook/assets/image-20221014140708224.png)
 
 My Solution:
 

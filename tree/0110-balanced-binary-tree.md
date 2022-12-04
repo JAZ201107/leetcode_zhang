@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/balanced-binary-tree/)
 
-![](.gitbook/assets/image-20221014142328073.png)
+![](../.gitbook/assets/image-20221014142328073.png)
 
 My Solution
 

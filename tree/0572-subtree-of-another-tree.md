@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/subtree-of-another-tree/)
 
-![](.gitbook/assets/image-20221014144451524.png)
+![](../.gitbook/assets/image-20221014144451524.png)
 
 My Solution:
 

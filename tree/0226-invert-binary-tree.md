@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/invert-binary-tree/)
 
-![](.gitbook/assets/image-20221013095828700.png)
+![](../.gitbook/assets/image-20221013095828700.png)
 
 My Solution:
 

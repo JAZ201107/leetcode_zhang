@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=study-plan\&id=data-structure-ii)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 My Solution:
 

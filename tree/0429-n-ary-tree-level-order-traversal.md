@@ -4,7 +4,7 @@
 
 * Breadth First Search
 
-![](.gitbook/assets/image-20221013014619865.png)
+![](../.gitbook/assets/image-20221013014619865.png)
 
 My Solution
 

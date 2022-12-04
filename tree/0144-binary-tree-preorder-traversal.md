@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
-![](.gitbook/assets/image-20221012192707366.png)
+![](../.gitbook/assets/image-20221012192707366.png)
 
 My Solution:
 

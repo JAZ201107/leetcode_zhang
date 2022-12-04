@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/same-tree/)
 
-![](.gitbook/assets/image-20221013010951227.png)
+![](../.gitbook/assets/image-20221013010951227.png)
 
 My Solution:
 

@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-![](.gitbook/assets/image-20221014134415941.png)
+![](../.gitbook/assets/image-20221014134415941.png)
 
 My Solution:
 

@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 
-![](.gitbook/assets/image-20221013013604586.png)
+![](../.gitbook/assets/image-20221013013604586.png)
 
 My Solution
 
