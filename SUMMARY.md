@@ -47,6 +47,7 @@
   * [0098 Validate Binary Search Tree](tree/0098-validate-binary-search-tree.md)
   * [0100 Same Tree](tree/0100-same-tree.md)
   * [0104 Maximum Depth of Binary Tree](tree/0104-maximum-depth-of-binary-tree.md)
+  * [0105 Construct Binary Tree from Preorder and Inorder Traversal](tree/0105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
   * [0108 Convert Sorted Array to Binary Search Tree](tree/0108-convert-sorted-array-to-binary-search-tree.md)
   * [0110 Balanced Binary Tree](tree/0110-balanced-binary-tree.md)
   * [0117 Populating Next Right Pointers in Each Node II](tree/0117-populating-next-right-pointers-in-each-node-ii.md)
