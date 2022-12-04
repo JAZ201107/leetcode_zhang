@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/keys-and-rooms/submissions/)
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 My Solution: DFS
 
