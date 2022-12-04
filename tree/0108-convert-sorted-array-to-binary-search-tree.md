@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/?envType=study-plan\&id=data-structure-ii)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 
 
