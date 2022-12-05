@@ -2,11 +2,11 @@
 
 [Question](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
-![](<../.gitbook/assets/image (1) (2) (2) (1).png>)
+<figure><img src="../.gitbook/assets/image (1) (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-My Solution:
+My Solution 1: Recursively
 
 ```java
 /**
@@ -45,4 +45,36 @@ class Solution {
         helper(root.right, k);
     }
 }
+```
+
+
+
+## Python
+
+My Solution 2: Iteratively
+
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        n = 0
+        stack = []
+        cur = root
+
+        while cur or stack:
+            while cur:
+                stack.append(cur)
+                cur = cur.left
+            
+            cur = stack.pop()
+            n += 1
+            if n == k:
+                return cur.val
+            cur = cur.right
+
 ```
