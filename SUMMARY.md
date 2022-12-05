@@ -55,6 +55,7 @@
   * [0117 Populating Next Right Pointers in Each Node II](tree/0117-populating-next-right-pointers-in-each-node-ii.md)
   * [0144 Binary Tree Preorder Traversal](tree/0144-binary-tree-preorder-traversal.md)
   * [0145 Binary Tree Postorder Traversal](tree/0145-binary-tree-postorder-traversal.md)
+  * [0173 Binary Search Tree Iterator](tree/0173-binary-search-tree-iterator.md)
   * [0199 Binary Tree Right Side View](tree/0199-binary-tree-right-side-view.md)
   * [0226 Invert Binary Tree](tree/0226-invert-binary-tree.md)
   * [0230 Kth Smallest Element in a BST](tree/0230-kth-smallest-element-in-a-bst.md)
