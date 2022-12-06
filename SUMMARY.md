@@ -60,6 +60,7 @@
   * [0226 Invert Binary Tree](tree/0226-invert-binary-tree.md)
   * [0230 Kth Smallest Element in a BST](tree/0230-kth-smallest-element-in-a-bst.md)
   * [0235 Lowest Common Ancestor of a Binary Search Tree](tree/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
+  * [0236 Lowest Common Ancestor of a Binary Tree](tree/0236-lowest-common-ancestor-of-a-binary-tree.md)
   * [0429 N-ary Tree Level Order Traversal](tree/0429-n-ary-tree-level-order-traversal.md)
   * [0450 Delete Node in a BST](tree/0450-delete-node-in-a-bst.md)
   * [0543 Diameter of Binary Tree](tree/0543-diameter-of-binary-tree.md)
