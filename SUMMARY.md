@@ -153,6 +153,7 @@
   * [0844 Backspace String Compare](two-pointers/0844-backspace-string-compare.md)
   * [0986 Interval List Intersections](two-pointers/0986-interval-list-intersections.md)
 * [Heap/PriorityQueue](heap-priorityqueue/README.md)
+  * [0215 Kth Largest Element in an Array](heap-priorityqueue/0215-kth-largest-element-in-an-array.md)
   * [0692 Top K Frequent Words](heap-priorityqueue/0692-top-k-frequent-words.md)
   * [0703 Kth Largest Element in a Stream](heap-priorityqueue/0703-kth-largest-element-in-a-stream.md)
   * [0973 K Closest Points to Origin](heap-priorityqueue/0973-k-closest-points-to-origin.md)
