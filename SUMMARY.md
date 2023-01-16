@@ -100,6 +100,7 @@
   * [0091 Decode Ways](dynamic-programming/0091-decode-ways.md)
   * [0139 Word Break](dynamic-programming/0139-word-break.md)
   * [0152 Maximum Product Subarray](dynamic-programming/0152-maximum-product-subarray.md)
+  * [0198 House Robber](dynamic-programming/0198-house-robber.md)
   * [0213 House Robber II](dynamic-programming/0213-house-robber-ii.md)
   * [0300 Longest Increasing Subsequence](dynamic-programming/0300-longest-increasing-subsequence.md)
   * [0322 Coin Change](dynamic-programming/0322-coin-change.md)
