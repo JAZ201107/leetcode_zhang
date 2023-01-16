@@ -39,6 +39,41 @@ class Solution {
 
 
 
+```java
+class Solution {
+    public String longestPalindrome(String s) {
+        char[] sArray = s.toCharArray();
+
+        int s_len = s.length();
+        boolean[][] dp = new boolean[s_len][2];
+        int currCol = 0;
+
+        int maxLen = 0;
+        int ans = 0;
+
+        for(int len = 0; len < s_len; len++){
+            for(int start = 0; start + len < s_len; start++){
+                int end = start + len;
+                if(len == 0){
+                    dp[start][currCol] = true;
+                }else if(len == 1){
+                    dp[start][currCol] = (sArray[start] == sArray[end]);
+                }else {
+                    dp[start][currCol] = (sArray[start] == sArray[end] && dp[start+1][currCol]);
+                }
+
+                if(dp[start][currCol] && len + 1 > maxLen){
+                    ans = start;
+                    maxLen = len + 1;
+                } 
+            }
+            currCol = 1 - currCol;
+        }
+        return maxLen == 0 ? "" : s.substring(ans, ans + maxLen);
+    }
+}
+```
+
 My Solution 2:
 
 ```java
