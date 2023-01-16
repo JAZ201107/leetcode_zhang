@@ -95,6 +95,7 @@
   * [0045 Jump Game II](dynamic-programming/0045-jump-game-ii.md)
   * [0055 Jump Game](dynamic-programming/0055-jump-game.md)
   * [0062 Unique Paths](dynamic-programming/0062-unique-paths.md)
+  * [0070 Climbing Stairs](dynamic-programming/0070-climbing-stairs.md)
   * [0072 Edit Distance](dynamic-programming/0072-edit-distance.md)
   * [0091 Decode Ways](dynamic-programming/0091-decode-ways.md)
   * [0139 Word Break](dynamic-programming/0139-word-break.md)
