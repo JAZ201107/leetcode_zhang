@@ -107,6 +107,7 @@
   * [0413 Arithmetic Slices](dynamic-programming/0413-arithmetic-slices.md)
   * [0583 Delete Operation for Two Strings](dynamic-programming/0583-delete-operation-for-two-strings.md)
   * [0673 Number of Longest Increasing Subsequence](dynamic-programming/0673-number-of-longest-increasing-subsequence.md)
+  * [0746 Min Cost Climbing Stairs](dynamic-programming/0746-min-cost-climbing-stairs.md)
   * [1143 Longest Common Subsequence](dynamic-programming/1143-longest-common-subsequence.md)
   * [1335 Minimum Difficulty of a Job Schedule](dynamic-programming/1335-minimum-difficulty-of-a-job-schedule.md)
   * [1567 Maximum Length of Subarray With Positive Product](dynamic-programming/1567-maximum-length-of-subarray-with-positive-product.md)
