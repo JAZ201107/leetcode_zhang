@@ -30,6 +30,27 @@ class Solution {
 
 
 
+## Python&#x20;
+
+```python
+class Solution:
+    def maxProduct(self, nums: List[int]) -> int:
+        res = max(nums)
+
+        curMin, curMax = 1, 1
+        for n in nums:
+            if n == 0:
+                curMin, curMax = 1, 1 # if meet 0, reset the curMin, curMax
+                continue
+            
+            tmp = curMax * n
+            curMax = max(tmp, n * curMin, n)
+            curMin = min(tmp, n * curMin, n)
+            res = max(res, curMax)
+        return res
+        
+```
+
 Similar Question:&#x20;
 
 [1567 Maximum Length of Subarray With Positive Product](https://yuyang-zhang.gitbook.io/my-leetcode/dynamic-programming/1567-maximum-length-of-subarray-with-positive-product)
