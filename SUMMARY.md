@@ -178,6 +178,7 @@
   * [0424 Longest Repeating Character Replacement](sliding-window/0424-longest-repeating-character-replacement.md)
   * [0438 Find All Anagrams in a String](sliding-window/0438-find-all-anagrams-in-a-string.md)
   * [0567 Permutation in String](sliding-window/0567-permutation-in-string.md)
+  * [1838 Frequency of the Most Frequent Element](sliding-window/1838-frequency-of-the-most-frequent-element.md)
   * [0713 Subarray Product Less Than K](sliding-window/0713-subarray-product-less-than-k.md)
 * [Recursion & Backtracking](recursion-and-backtracking/README.md)
   * [0017 Letter Combinations of a Phone Number](recursion-and-backtracking/0017-letter-combinations-of-a-phone-number.md)
