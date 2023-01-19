@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/find-the-town-judge/?envType=study-plan\&id=graph-i)
 
-<figure><img src="../.gitbook/assets/image (1) (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

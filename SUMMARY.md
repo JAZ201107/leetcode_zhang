@@ -106,6 +106,7 @@
   * [0322 Coin Change](dynamic-programming/0322-coin-change.md)
   * [0343 Integer Break](dynamic-programming/0343-integer-break.md)
   * [0413 Arithmetic Slices](dynamic-programming/0413-arithmetic-slices.md)
+  * [0416 Partition Equal Subset Sum](dynamic-programming/0416-partition-equal-subset-sum.md)
   * [0583 Delete Operation for Two Strings](dynamic-programming/0583-delete-operation-for-two-strings.md)
   * [0647 Palindromic Substrings](dynamic-programming/0647-palindromic-substrings.md)
   * [0673 Number of Longest Increasing Subsequence](dynamic-programming/0673-number-of-longest-increasing-subsequence.md)
