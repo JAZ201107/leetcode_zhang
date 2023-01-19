@@ -171,6 +171,7 @@
 * [Stack](stack/README.md)
   * [0020 Valid Parentheses](stack/0020-valid-parentheses.md)
   * [0071 Simplify Path](stack/0071-simplify-path.md)
+  * [0150 Evaluate Reverse Polish Notation](stack/0150-evaluate-reverse-polish-notation.md)
   * [0155 Min Stack](stack/0155-min-stack.md)
   * [1249 Minimum Remove to Make Valid Parentheses](stack/1249-minimum-remove-to-make-valid-parentheses.md)
   * [1472 Design Browser History](stack/1472-design-browser-history.md)
