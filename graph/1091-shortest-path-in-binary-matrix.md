@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 My Solution: BFS Search
 

@@ -175,6 +175,7 @@
 * [Sliding Window](sliding-window/README.md)
   * [0003 Longest Substring Without Repeating Characters](sliding-window/0003-longest-substring-without-repeating-characters.md)
   * [0209 Minimum Size Subarray Sum](sliding-window/0209-minimum-size-subarray-sum.md)
+  * [0424 Longest Repeating Character Replacement](sliding-window/0424-longest-repeating-character-replacement.md)
   * [0438 Find All Anagrams in a String](sliding-window/0438-find-all-anagrams-in-a-string.md)
   * [0713 Subarray Product Less Than K](sliding-window/0713-subarray-product-less-than-k.md)
 * [Recursion & Backtracking](recursion-and-backtracking/README.md)
