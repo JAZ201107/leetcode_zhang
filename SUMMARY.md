@@ -172,6 +172,7 @@
   * [0020 Valid Parentheses](stack/0020-valid-parentheses.md)
   * [0022 Generate Parentheses](stack/0022-generate-parentheses.md)
   * [0071 Simplify Path](stack/0071-simplify-path.md)
+  * [0084 Largest Rectangle in Histogram](stack/0084-largest-rectangle-in-histogram.md)
   * [0150 Evaluate Reverse Polish Notation](stack/0150-evaluate-reverse-polish-notation.md)
   * [0155 Min Stack](stack/0155-min-stack.md)
   * [0739 Daily Temperatures](stack/0739-daily-temperatures.md)
