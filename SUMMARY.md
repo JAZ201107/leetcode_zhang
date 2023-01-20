@@ -89,6 +89,7 @@
   * [0160 Intersection of Two Linked Lists](list/0160-intersection-of-two-linked-lists.md)
   * [0206 Reverse Linked List](list/0206-reverse-linked-list.md)
   * [0237 Delete Node in a Linked List](0237-delete-node-in-a-linked-list.md)
+  * [0287 Find the Duplicate Number](list/0287-find-the-duplicate-number.md)
   * [0430 Flatten a Multilevel Doubly Linked List](linked-list/0430-flatten-a-multilevel-doubly-linked-list.md)
   * [0707 Design Linked List](list/0707-design-linked-list.md)
   * [2095 Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list.md)
