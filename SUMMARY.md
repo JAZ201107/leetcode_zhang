@@ -74,6 +74,7 @@
   * [0002 Add Two Numbers](linked-list/0002-add-two-numbers.md)
   * [0019 Remove Nth Node From End of List](list/0019-remove-nth-node-from-end-of-list.md)
   * [0021 Merge Two Sorted Lists](list/0021-merge-two-sorted-lists.md)
+  * [0023. Merge k Sorted Lists](list/0023.-merge-k-sorted-lists.md)
   * [0024 Swap Nodes in Pairs](list/0024-swap-nodes-in-pairs.md)
   * [0025 Reverse Nodes in k-Group](list/0025-reverse-nodes-in-k-group.md)
   * [0078 Subsets](linked-list/0078-subsets.md)
