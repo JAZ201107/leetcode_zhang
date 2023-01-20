@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/word-ladder/)
 
-<figure><img src="../.gitbook/assets/image (2) (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
