@@ -2,7 +2,7 @@
 
 [Question](https://leetcode.com/problems/minimum-jumps-to-reach-home/)
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
